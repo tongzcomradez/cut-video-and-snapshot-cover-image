@@ -1,0 +1,11 @@
+{
+  "name": "yui-node",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
